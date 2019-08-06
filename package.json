@@ -1,0 +1,10 @@
+{
+  "name": "aws-rest-with-dynamodb",
+  "version": "1.0.0",
+  "description": "Serverless service exposing a REST HTTP interface to manage comments",
+  "author": "GONAOUI EL BADRI HASNAE",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  }
+}
